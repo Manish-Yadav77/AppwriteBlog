@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Mega Blog</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Manish-Yadav77/Currency_Convertor/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Manish-Yadav77/AppwriteBlog/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">A "React and Appwrite Blog" is a fully functional blog website built using the React JavaScript library for the front-end interface, and the Appwrite backend-as-a-service platform to manage user authentication, data storage, and API functionality, allowing users to easily create, edit, and publish blog posts with a seamless user experience.</p>
 
